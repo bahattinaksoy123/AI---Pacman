@@ -1,0 +1,20 @@
+C:\Users\B\source\repos\Sinirli_derinlikte_arama\Sinirli_derinlikte_arama\bin\Debug\Sinirli_derinlikte_arama.exe.config
+C:\Users\B\source\repos\Sinirli_derinlikte_arama\Sinirli_derinlikte_arama\bin\Debug\Sinirli_derinlikte_arama.exe
+C:\Users\B\source\repos\Sinirli_derinlikte_arama\Sinirli_derinlikte_arama\bin\Debug\Sinirli_derinlikte_arama.pdb
+C:\Users\B\source\repos\Sinirli_derinlikte_arama\Sinirli_derinlikte_arama\obj\Debug\Sinirli_derinlikte_arama.csprojAssemblyReference.cache
+C:\Users\B\source\repos\Sinirli_derinlikte_arama\Sinirli_derinlikte_arama\obj\Debug\Sinirli_derinlikte_arama.Form1.resources
+C:\Users\B\source\repos\Sinirli_derinlikte_arama\Sinirli_derinlikte_arama\obj\Debug\Sinirli_derinlikte_arama.Properties.Resources.resources
+C:\Users\B\source\repos\Sinirli_derinlikte_arama\Sinirli_derinlikte_arama\obj\Debug\Sinirli_derinlikte_arama.csproj.GenerateResource.cache
+C:\Users\B\source\repos\Sinirli_derinlikte_arama\Sinirli_derinlikte_arama\obj\Debug\Sinirli_derinlikte_arama.csproj.CoreCompileInputs.cache
+C:\Users\B\source\repos\Sinirli_derinlikte_arama\Sinirli_derinlikte_arama\obj\Debug\Sinirli_derinlikte_arama.exe
+C:\Users\B\source\repos\Sinirli_derinlikte_arama\Sinirli_derinlikte_arama\obj\Debug\Sinirli_derinlikte_arama.pdb
+C:\Users\B\Desktop\proje1\Tek Yiyecek Hedefi(DFS,BFS,DLS,Amanhattan,Aeuclidean)\Sinirli_derinlikte_arama\Sinirli_derinlikte_arama\bin\Debug\Sinirli_derinlikte_arama.exe.config
+C:\Users\B\Desktop\proje1\Tek Yiyecek Hedefi(DFS,BFS,DLS,Amanhattan,Aeuclidean)\Sinirli_derinlikte_arama\Sinirli_derinlikte_arama\bin\Debug\Sinirli_derinlikte_arama.exe
+C:\Users\B\Desktop\proje1\Tek Yiyecek Hedefi(DFS,BFS,DLS,Amanhattan,Aeuclidean)\Sinirli_derinlikte_arama\Sinirli_derinlikte_arama\bin\Debug\Sinirli_derinlikte_arama.pdb
+C:\Users\B\Desktop\proje1\Tek Yiyecek Hedefi(DFS,BFS,DLS,Amanhattan,Aeuclidean)\Sinirli_derinlikte_arama\Sinirli_derinlikte_arama\obj\Debug\Sinirli_derinlikte_arama.csprojAssemblyReference.cache
+C:\Users\B\Desktop\proje1\Tek Yiyecek Hedefi(DFS,BFS,DLS,Amanhattan,Aeuclidean)\Sinirli_derinlikte_arama\Sinirli_derinlikte_arama\obj\Debug\Sinirli_derinlikte_arama.Form1.resources
+C:\Users\B\Desktop\proje1\Tek Yiyecek Hedefi(DFS,BFS,DLS,Amanhattan,Aeuclidean)\Sinirli_derinlikte_arama\Sinirli_derinlikte_arama\obj\Debug\Sinirli_derinlikte_arama.Properties.Resources.resources
+C:\Users\B\Desktop\proje1\Tek Yiyecek Hedefi(DFS,BFS,DLS,Amanhattan,Aeuclidean)\Sinirli_derinlikte_arama\Sinirli_derinlikte_arama\obj\Debug\Sinirli_derinlikte_arama.csproj.GenerateResource.cache
+C:\Users\B\Desktop\proje1\Tek Yiyecek Hedefi(DFS,BFS,DLS,Amanhattan,Aeuclidean)\Sinirli_derinlikte_arama\Sinirli_derinlikte_arama\obj\Debug\Sinirli_derinlikte_arama.csproj.CoreCompileInputs.cache
+C:\Users\B\Desktop\proje1\Tek Yiyecek Hedefi(DFS,BFS,DLS,Amanhattan,Aeuclidean)\Sinirli_derinlikte_arama\Sinirli_derinlikte_arama\obj\Debug\Sinirli_derinlikte_arama.exe
+C:\Users\B\Desktop\proje1\Tek Yiyecek Hedefi(DFS,BFS,DLS,Amanhattan,Aeuclidean)\Sinirli_derinlikte_arama\Sinirli_derinlikte_arama\obj\Debug\Sinirli_derinlikte_arama.pdb

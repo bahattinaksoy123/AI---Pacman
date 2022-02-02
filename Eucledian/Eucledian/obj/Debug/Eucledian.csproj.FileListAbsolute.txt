@@ -1,0 +1,19 @@
+C:\Users\B\source\repos\Eucledian\Eucledian\bin\Debug\Eucledian.exe.config
+C:\Users\B\source\repos\Eucledian\Eucledian\bin\Debug\Eucledian.exe
+C:\Users\B\source\repos\Eucledian\Eucledian\bin\Debug\Eucledian.pdb
+C:\Users\B\source\repos\Eucledian\Eucledian\obj\Debug\Eucledian.Form1.resources
+C:\Users\B\source\repos\Eucledian\Eucledian\obj\Debug\Eucledian.Properties.Resources.resources
+C:\Users\B\source\repos\Eucledian\Eucledian\obj\Debug\Eucledian.csproj.GenerateResource.cache
+C:\Users\B\source\repos\Eucledian\Eucledian\obj\Debug\Eucledian.csproj.CoreCompileInputs.cache
+C:\Users\B\source\repos\Eucledian\Eucledian\obj\Debug\Eucledian.exe
+C:\Users\B\source\repos\Eucledian\Eucledian\obj\Debug\Eucledian.pdb
+C:\Users\B\Desktop\proje1\Tek Yiyecek Hedefi(DFS,BFS,DLS,Amanhattan,Aeuclidean)\Eucledian\Eucledian\bin\Debug\Eucledian.exe.config
+C:\Users\B\Desktop\proje1\Tek Yiyecek Hedefi(DFS,BFS,DLS,Amanhattan,Aeuclidean)\Eucledian\Eucledian\bin\Debug\Eucledian.exe
+C:\Users\B\Desktop\proje1\Tek Yiyecek Hedefi(DFS,BFS,DLS,Amanhattan,Aeuclidean)\Eucledian\Eucledian\bin\Debug\Eucledian.pdb
+C:\Users\B\Desktop\proje1\Tek Yiyecek Hedefi(DFS,BFS,DLS,Amanhattan,Aeuclidean)\Eucledian\Eucledian\obj\Debug\Eucledian.csprojAssemblyReference.cache
+C:\Users\B\Desktop\proje1\Tek Yiyecek Hedefi(DFS,BFS,DLS,Amanhattan,Aeuclidean)\Eucledian\Eucledian\obj\Debug\Eucledian.Form1.resources
+C:\Users\B\Desktop\proje1\Tek Yiyecek Hedefi(DFS,BFS,DLS,Amanhattan,Aeuclidean)\Eucledian\Eucledian\obj\Debug\Eucledian.Properties.Resources.resources
+C:\Users\B\Desktop\proje1\Tek Yiyecek Hedefi(DFS,BFS,DLS,Amanhattan,Aeuclidean)\Eucledian\Eucledian\obj\Debug\Eucledian.csproj.GenerateResource.cache
+C:\Users\B\Desktop\proje1\Tek Yiyecek Hedefi(DFS,BFS,DLS,Amanhattan,Aeuclidean)\Eucledian\Eucledian\obj\Debug\Eucledian.csproj.CoreCompileInputs.cache
+C:\Users\B\Desktop\proje1\Tek Yiyecek Hedefi(DFS,BFS,DLS,Amanhattan,Aeuclidean)\Eucledian\Eucledian\obj\Debug\Eucledian.exe
+C:\Users\B\Desktop\proje1\Tek Yiyecek Hedefi(DFS,BFS,DLS,Amanhattan,Aeuclidean)\Eucledian\Eucledian\obj\Debug\Eucledian.pdb

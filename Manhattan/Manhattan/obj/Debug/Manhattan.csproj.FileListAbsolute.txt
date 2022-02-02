@@ -1,0 +1,20 @@
+C:\Users\B\source\repos\Manhattan\Manhattan\bin\Debug\Manhattan.exe.config
+C:\Users\B\source\repos\Manhattan\Manhattan\bin\Debug\Manhattan.exe
+C:\Users\B\source\repos\Manhattan\Manhattan\bin\Debug\Manhattan.pdb
+C:\Users\B\source\repos\Manhattan\Manhattan\obj\Debug\Manhattan.csprojAssemblyReference.cache
+C:\Users\B\source\repos\Manhattan\Manhattan\obj\Debug\Manhattan.Form1.resources
+C:\Users\B\source\repos\Manhattan\Manhattan\obj\Debug\Manhattan.Properties.Resources.resources
+C:\Users\B\source\repos\Manhattan\Manhattan\obj\Debug\Manhattan.csproj.GenerateResource.cache
+C:\Users\B\source\repos\Manhattan\Manhattan\obj\Debug\Manhattan.csproj.CoreCompileInputs.cache
+C:\Users\B\source\repos\Manhattan\Manhattan\obj\Debug\Manhattan.exe
+C:\Users\B\source\repos\Manhattan\Manhattan\obj\Debug\Manhattan.pdb
+C:\Users\B\Desktop\proje1\Tek Yiyecek Hedefi(DFS,BFS,DLS,Amanhattan,Aeuclidean)\Manhattan\Manhattan\bin\Debug\Manhattan.exe.config
+C:\Users\B\Desktop\proje1\Tek Yiyecek Hedefi(DFS,BFS,DLS,Amanhattan,Aeuclidean)\Manhattan\Manhattan\bin\Debug\Manhattan.exe
+C:\Users\B\Desktop\proje1\Tek Yiyecek Hedefi(DFS,BFS,DLS,Amanhattan,Aeuclidean)\Manhattan\Manhattan\bin\Debug\Manhattan.pdb
+C:\Users\B\Desktop\proje1\Tek Yiyecek Hedefi(DFS,BFS,DLS,Amanhattan,Aeuclidean)\Manhattan\Manhattan\obj\Debug\Manhattan.csprojAssemblyReference.cache
+C:\Users\B\Desktop\proje1\Tek Yiyecek Hedefi(DFS,BFS,DLS,Amanhattan,Aeuclidean)\Manhattan\Manhattan\obj\Debug\Manhattan.Form1.resources
+C:\Users\B\Desktop\proje1\Tek Yiyecek Hedefi(DFS,BFS,DLS,Amanhattan,Aeuclidean)\Manhattan\Manhattan\obj\Debug\Manhattan.Properties.Resources.resources
+C:\Users\B\Desktop\proje1\Tek Yiyecek Hedefi(DFS,BFS,DLS,Amanhattan,Aeuclidean)\Manhattan\Manhattan\obj\Debug\Manhattan.csproj.GenerateResource.cache
+C:\Users\B\Desktop\proje1\Tek Yiyecek Hedefi(DFS,BFS,DLS,Amanhattan,Aeuclidean)\Manhattan\Manhattan\obj\Debug\Manhattan.csproj.CoreCompileInputs.cache
+C:\Users\B\Desktop\proje1\Tek Yiyecek Hedefi(DFS,BFS,DLS,Amanhattan,Aeuclidean)\Manhattan\Manhattan\obj\Debug\Manhattan.exe
+C:\Users\B\Desktop\proje1\Tek Yiyecek Hedefi(DFS,BFS,DLS,Amanhattan,Aeuclidean)\Manhattan\Manhattan\obj\Debug\Manhattan.pdb

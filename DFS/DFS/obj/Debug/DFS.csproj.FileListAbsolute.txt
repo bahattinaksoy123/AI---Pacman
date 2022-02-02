@@ -1,0 +1,19 @@
+C:\Users\B\source\repos\DFS\DFS\bin\Debug\DFS.exe.config
+C:\Users\B\source\repos\DFS\DFS\bin\Debug\DFS.exe
+C:\Users\B\source\repos\DFS\DFS\bin\Debug\DFS.pdb
+C:\Users\B\source\repos\DFS\DFS\obj\Debug\DFS.Form1.resources
+C:\Users\B\source\repos\DFS\DFS\obj\Debug\DFS.Properties.Resources.resources
+C:\Users\B\source\repos\DFS\DFS\obj\Debug\DFS.csproj.GenerateResource.cache
+C:\Users\B\source\repos\DFS\DFS\obj\Debug\DFS.csproj.CoreCompileInputs.cache
+C:\Users\B\source\repos\DFS\DFS\obj\Debug\DFS.exe
+C:\Users\B\source\repos\DFS\DFS\obj\Debug\DFS.pdb
+C:\Users\B\Desktop\proje1\Tek Yiyecek Hedefi(DFS,BFS,DLS,Amanhattan,Aeuclidean)\DFS\DFS\bin\Debug\DFS.exe.config
+C:\Users\B\Desktop\proje1\Tek Yiyecek Hedefi(DFS,BFS,DLS,Amanhattan,Aeuclidean)\DFS\DFS\bin\Debug\DFS.exe
+C:\Users\B\Desktop\proje1\Tek Yiyecek Hedefi(DFS,BFS,DLS,Amanhattan,Aeuclidean)\DFS\DFS\bin\Debug\DFS.pdb
+C:\Users\B\Desktop\proje1\Tek Yiyecek Hedefi(DFS,BFS,DLS,Amanhattan,Aeuclidean)\DFS\DFS\obj\Debug\DFS.csprojAssemblyReference.cache
+C:\Users\B\Desktop\proje1\Tek Yiyecek Hedefi(DFS,BFS,DLS,Amanhattan,Aeuclidean)\DFS\DFS\obj\Debug\DFS.Form1.resources
+C:\Users\B\Desktop\proje1\Tek Yiyecek Hedefi(DFS,BFS,DLS,Amanhattan,Aeuclidean)\DFS\DFS\obj\Debug\DFS.Properties.Resources.resources
+C:\Users\B\Desktop\proje1\Tek Yiyecek Hedefi(DFS,BFS,DLS,Amanhattan,Aeuclidean)\DFS\DFS\obj\Debug\DFS.csproj.GenerateResource.cache
+C:\Users\B\Desktop\proje1\Tek Yiyecek Hedefi(DFS,BFS,DLS,Amanhattan,Aeuclidean)\DFS\DFS\obj\Debug\DFS.csproj.CoreCompileInputs.cache
+C:\Users\B\Desktop\proje1\Tek Yiyecek Hedefi(DFS,BFS,DLS,Amanhattan,Aeuclidean)\DFS\DFS\obj\Debug\DFS.exe
+C:\Users\B\Desktop\proje1\Tek Yiyecek Hedefi(DFS,BFS,DLS,Amanhattan,Aeuclidean)\DFS\DFS\obj\Debug\DFS.pdb

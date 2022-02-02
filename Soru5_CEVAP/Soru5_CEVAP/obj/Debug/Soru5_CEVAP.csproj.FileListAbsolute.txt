@@ -1,0 +1,30 @@
+C:\Users\B\source\repos\Soru5_CEVAP\Soru5_CEVAP\bin\Debug\Soru5_CEVAP.exe.config
+C:\Users\B\source\repos\Soru5_CEVAP\Soru5_CEVAP\bin\Debug\Soru5_CEVAP.exe
+C:\Users\B\source\repos\Soru5_CEVAP\Soru5_CEVAP\bin\Debug\Soru5_CEVAP.pdb
+C:\Users\B\source\repos\Soru5_CEVAP\Soru5_CEVAP\obj\Debug\Soru5_CEVAP.Form1.resources
+C:\Users\B\source\repos\Soru5_CEVAP\Soru5_CEVAP\obj\Debug\Soru5_CEVAP.Properties.Resources.resources
+C:\Users\B\source\repos\Soru5_CEVAP\Soru5_CEVAP\obj\Debug\Soru5_CEVAP.csproj.GenerateResource.cache
+C:\Users\B\source\repos\Soru5_CEVAP\Soru5_CEVAP\obj\Debug\Soru5_CEVAP.csproj.CoreCompileInputs.cache
+C:\Users\B\source\repos\Soru5_CEVAP\Soru5_CEVAP\obj\Debug\Soru5_CEVAP.exe
+C:\Users\B\source\repos\Soru5_CEVAP\Soru5_CEVAP\obj\Debug\Soru5_CEVAP.pdb
+C:\Users\B\source\repos\Soru5_CEVAP\Soru5_CEVAP\obj\Debug\Soru5_CEVAP.csprojAssemblyReference.cache
+C:\Users\B\Desktop\proje1\Tek Yiyecek Hedefi(DFS,BFS,DLS,Amanhattan,Aeuclidean)\Soru5_CEVAP\Soru5_CEVAP\bin\Debug\Soru5_CEVAP.exe.config
+C:\Users\B\Desktop\proje1\Tek Yiyecek Hedefi(DFS,BFS,DLS,Amanhattan,Aeuclidean)\Soru5_CEVAP\Soru5_CEVAP\bin\Debug\Soru5_CEVAP.exe
+C:\Users\B\Desktop\proje1\Tek Yiyecek Hedefi(DFS,BFS,DLS,Amanhattan,Aeuclidean)\Soru5_CEVAP\Soru5_CEVAP\bin\Debug\Soru5_CEVAP.pdb
+C:\Users\B\Desktop\proje1\Tek Yiyecek Hedefi(DFS,BFS,DLS,Amanhattan,Aeuclidean)\Soru5_CEVAP\Soru5_CEVAP\obj\Debug\Soru5_CEVAP.csprojAssemblyReference.cache
+C:\Users\B\Desktop\proje1\Tek Yiyecek Hedefi(DFS,BFS,DLS,Amanhattan,Aeuclidean)\Soru5_CEVAP\Soru5_CEVAP\obj\Debug\Soru5_CEVAP.Form1.resources
+C:\Users\B\Desktop\proje1\Tek Yiyecek Hedefi(DFS,BFS,DLS,Amanhattan,Aeuclidean)\Soru5_CEVAP\Soru5_CEVAP\obj\Debug\Soru5_CEVAP.Properties.Resources.resources
+C:\Users\B\Desktop\proje1\Tek Yiyecek Hedefi(DFS,BFS,DLS,Amanhattan,Aeuclidean)\Soru5_CEVAP\Soru5_CEVAP\obj\Debug\Soru5_CEVAP.csproj.GenerateResource.cache
+C:\Users\B\Desktop\proje1\Tek Yiyecek Hedefi(DFS,BFS,DLS,Amanhattan,Aeuclidean)\Soru5_CEVAP\Soru5_CEVAP\obj\Debug\Soru5_CEVAP.csproj.CoreCompileInputs.cache
+C:\Users\B\Desktop\proje1\Tek Yiyecek Hedefi(DFS,BFS,DLS,Amanhattan,Aeuclidean)\Soru5_CEVAP\Soru5_CEVAP\obj\Debug\Soru5_CEVAP.exe
+C:\Users\B\Desktop\proje1\Tek Yiyecek Hedefi(DFS,BFS,DLS,Amanhattan,Aeuclidean)\Soru5_CEVAP\Soru5_CEVAP\obj\Debug\Soru5_CEVAP.pdb
+F:\L\yz\proje1\cevap\Soru5_CEVAP\Soru5_CEVAP\bin\Debug\Soru5_CEVAP.exe.config
+F:\L\yz\proje1\cevap\Soru5_CEVAP\Soru5_CEVAP\bin\Debug\Soru5_CEVAP.exe
+F:\L\yz\proje1\cevap\Soru5_CEVAP\Soru5_CEVAP\bin\Debug\Soru5_CEVAP.pdb
+F:\L\yz\proje1\cevap\Soru5_CEVAP\Soru5_CEVAP\obj\Debug\Soru5_CEVAP.csprojAssemblyReference.cache
+F:\L\yz\proje1\cevap\Soru5_CEVAP\Soru5_CEVAP\obj\Debug\Soru5_CEVAP.Form1.resources
+F:\L\yz\proje1\cevap\Soru5_CEVAP\Soru5_CEVAP\obj\Debug\Soru5_CEVAP.Properties.Resources.resources
+F:\L\yz\proje1\cevap\Soru5_CEVAP\Soru5_CEVAP\obj\Debug\Soru5_CEVAP.csproj.GenerateResource.cache
+F:\L\yz\proje1\cevap\Soru5_CEVAP\Soru5_CEVAP\obj\Debug\Soru5_CEVAP.csproj.CoreCompileInputs.cache
+F:\L\yz\proje1\cevap\Soru5_CEVAP\Soru5_CEVAP\obj\Debug\Soru5_CEVAP.exe
+F:\L\yz\proje1\cevap\Soru5_CEVAP\Soru5_CEVAP\obj\Debug\Soru5_CEVAP.pdb
